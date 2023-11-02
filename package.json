@@ -1,0 +1,14 @@
+{
+  "name": "projetodp-site",
+  "version": "1.0.0",
+  "description": "Projeto de site para faculdade",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Marcelino",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
